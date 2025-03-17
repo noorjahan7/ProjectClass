@@ -14,5 +14,19 @@ public class ClassA {
 		System.out.println("3");
 
 	}
+	private void tamilnadu() {
+		System.out.println("Tamil");
+
+	}
+	private void delhi() {
+        System.out.println("hindi");
+
+
+	}
+	private void kerala() {
+        System.out.println("malayalam");
+        
+
+	}
 	
 }
