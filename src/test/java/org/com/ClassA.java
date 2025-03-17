@@ -27,6 +27,22 @@ public class ClassA {
 	private void canada() {
 		System.out.println("can");
 
+
+}
+	
+
+	private void tamilnadu() {
+		System.out.println("Tamil");
+
 	}
+	private void delhi() {
+        System.out.println("hindi");
+
+
+	}
+	private void kerala() {
+        System.out.println("malayalam");	
+	
+}
 	
 }
