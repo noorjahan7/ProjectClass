@@ -16,7 +16,6 @@ public class ClassA {
 		System.out.println("3");
 
 	}
-	
 	private void usa() {
 		System.out.println("usa");
 
@@ -29,7 +28,7 @@ public class ClassA {
 		System.out.println("can");
 
 
-	}
+}
 	
 
 	private void tamilnadu() {
@@ -42,10 +41,8 @@ public class ClassA {
 
 	}
 	private void kerala() {
-        System.out.println("malayalam");
-        
-
-	
+        System.out.println("malayalam");	
 	
 }
+	
 }
