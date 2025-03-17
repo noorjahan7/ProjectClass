@@ -1,5 +1,7 @@
 package org.com;
 
+import java.sql.PseudoColumnUsage;
+
 public class ClassA {
 	
 	private void method1() {
@@ -14,6 +16,22 @@ public class ClassA {
 		System.out.println("3");
 
 	}
+	
+	private void usa() {
+		System.out.println("usa");
+
+	}
+	private void india() {
+		System.out.println("ind");
+
+	}
+	private void canada() {
+		System.out.println("can");
+
+
+	}
+	
+
 	private void tamilnadu() {
 		System.out.println("Tamil");
 
@@ -27,6 +45,7 @@ public class ClassA {
         System.out.println("malayalam");
         
 
-	}
 	
+	
+}
 }
